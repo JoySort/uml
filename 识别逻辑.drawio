@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T07:00:22.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="tryxRrJF-Piu4cYd32X-" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-29T07:14:46.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="UvaQfa75xGKOrrGM_zo2" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="UW98S7ijKTjuYcUrlLJn-22" value="果径" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#9AC7BF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1025" y="288.75" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UW98S7ijKTjuYcUrlLJn-26" value="分级组合矩阵" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="500" width="180" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
