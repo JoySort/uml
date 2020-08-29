@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T07:33:36.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="m7_S16CQC0iKUuYbYOy8" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-29T07:38:53.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="-2kb-JSb3T2urvkNs7Rp" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="UW98S7ijKTjuYcUrlLJn-65" value="分选通道结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#9AC7BF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="626.25" y="1480" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UW98S7ijKTjuYcUrlLJn-70" value="&lt;h1&gt;分级组合矩阵&lt;/h1&gt;&lt;div&gt;分级组合是为了针对分级1-3级以及次果，残果而做的。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;需要矩阵组合的原因是因为，例如1级果中，如果黑点只有一个，则可能苹果锈的要求就可以放宽一些。而苹果秀多，则黑点的数量就更严格。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;因此，这里的组合是为了解决同一等级下，不同逻辑组合的矩阵。这个矩阵由我们自己制定，并且同苹果流通商沟通确认。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;因为我们为了方便调整等级，制定了1-15级的细化等级，这个表格则需要我们仔细思考&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="850" width="293.75" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
